@@ -12,7 +12,7 @@
 	display: flex;
 	justify-content: space-between;
 }
-.cart .body > div:nth-last-child(1) {
+.cart .body > div:nth-last-child(2) {
 	color: #ff331e;
 	font-size: 1.3em;
 	font-weight: 400;
